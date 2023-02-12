@@ -1,5 +1,3 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/devjoselima/7c3eca731b8f6e64252e2341bd4338ed/raw/752dedb64c30935fe85039edab2922a42aab654a/githubcard.svg">
-
 <h1 align="left"> Olá, me chamo Alison Miguel <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"></h1>
 
 
@@ -32,12 +30,11 @@
 </div><br/>
 
 
-
 ## ✉️ Contatos 
 
-<a href = "mailto:Alisonmiguel158@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href=https://www.linkedin.com/in/alison-miguel-36382a1b9//" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href = "mailto:Alisonmiguel158@gmail.com.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/jose-limag/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://portfolio-rose-eight-40.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-202024?style=for-the-badge&logo=Color=white" target="_blank"></a>
 
-![Snake animation](https://github.com/Alis0nBR/Alis0nBR/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/JoseLima04/JoseLima04/blob/output/github-contribution-grid-snake.svg)
 
