@@ -39,5 +39,5 @@
 <a href="https://www.linkedin.com/in/alison-miguel-36382a1b9/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://alisonmigueldev.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-202024?style=for-the-badge&logo=Color=white" target="_blank"></a>
 
-![Snake animation](https://github.com/JoseLima04/JoseLima04/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Alis0nBR/Alis0nBR/blob/output/github-contribution-grid-snake.svg)
 
