@@ -38,6 +38,3 @@
 <a href = "https://mail.google.com/mail/u/0/?fs=1&to=Alisonmiguel158@gmail.com&tf=cm"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/alison-miguel-36382a1b9/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://alisonmigueldev.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-202024?style=for-the-badge&logo=Color=white" target="_blank"></a>
-
-![Snake animation](https://github.com/Alis0nBR/Alis0nBR/blob/main/.github/.workflowers/download)
-
