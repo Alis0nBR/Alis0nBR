@@ -10,7 +10,6 @@ Olá, meu nome é Alison Miguel e tenho 19 anos. Atualmente, sou estudante de An
 * ❤️ Apaixonado por tecnologia.
 * 📚 Buscando sempre novas soluções com programação todo dia.
 * 🎓 Cursando Análise e desenvolvimento de sistemas.
-* 🌱 Atualmente estudando ReactJS.
 <br/><br/>
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alis0nBR&count_private=true&show_icons=true&theme=tokyonight"/>
