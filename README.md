@@ -1,7 +1,11 @@
 <h1 align="left"> Olá, me chamo Alison Miguel <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"></h1>
 
 
-  <blockquote>Meu nome é Alison e eu tenho 18 anos. Atualmente meu foco me tornar um programador full-stack no futuro, amo aprender novas tecnologias e passar o dia codando❤️ </blockquote>
+  <blockquote>
+  Sobre Mim
+Olá, meu nome é Alison Miguel e tenho 19 anos. Atualmente, sou estudante de Análise e Desenvolvimento de Sistemas e tenho experiência em JavaScript, Java e SQL. Estou sempre buscando aprender e me aprimorar em novas tecnologias e habilidades, com o objetivo de me tornar um desenvolvedor de software completo e altamente          qualificado.
+
+  </blockquote>
  
 * ❤️ Apaixonado por tecnologia.
 * 📚 Buscando sempre novas soluções com programação todo dia.
