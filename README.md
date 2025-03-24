@@ -3,7 +3,7 @@
 
   <blockquote>
  <h1>Sobre Mim</h1>
-Olá, meu nome é Alison Miguel e tenho 20 anos. Atualmente, sou Analista de sistemas da Totvs tendo experiências em JavaScript, Java, Advpl e SQL. Estou sempre buscando aprender e me aprimorar em novas tecnologias e habilidades, com o objetivo de me tornar um desenvolvedor de software completo e altamente          qualificado.
+Olá, meu nome é Alison Miguel e tenho 21 anos. Atualmente, sou Analista de sistemas da Totvs tendo experiências em JavaScript, Java, Advpl e SQL. Estou sempre buscando aprender e me aprimorar em novas tecnologias e habilidades, com o objetivo de me tornar um desenvolvedor de software completo e altamente          qualificado.
 
   </blockquote>
  
