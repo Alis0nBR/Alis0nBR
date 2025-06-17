@@ -12,7 +12,7 @@ Olá, meu nome é Alison Miguel e tenho 21 anos. Atualmente, sou Analista de sis
 * 🎓 Cursando Análise e desenvolvimento de sistemas.
 <br/><br/>
 <div>
-  <img heigt="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alis0nBR&layout=compact&theme=tokyonight"/> 
+  <img heigt="179em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alis0nBR&layout=compact&theme=tokyonight"/> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alis0nBR&count_private=true&show_icons=true&theme=tokyonight"/> 
 </div>
 
